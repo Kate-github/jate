@@ -35,9 +35,9 @@ THEN I should have proper build scripts for a webpack application <br/>
 
 Links
 
-Video: https://drive.google.com/file/d/1Df3ne5Ox3H8GOa_PaCc6pgvwydt3r0uz/view?usp=sharing
+Heroku: https://pwa-cautious-meme.herokuapp.com/
 
-Github:https://github.com/Kate-github/cautious-meme
+Github:https://github.com/Kate-github/jate
 
 Screenshot Application:
 
